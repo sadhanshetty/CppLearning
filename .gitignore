@@ -1,0 +1,21 @@
+# Ignore build artifacts
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code settings
+.vscode/
+
+# Build folders
+build/
+cmake-build-*/
+
+# Backup files
+*.log
+*.bak
+*.tmp
+
+# macOS/Windows crap (if relevant)
+.DS_Store
+Thumbs.db
